@@ -8,7 +8,7 @@ import CartIcon from "../../components/cart-icon/cart-icon.component";
 import CartDropdown from "../../components/cart-dropdown/cart-dropdown.component";
 
 import { signOutUser } from "../../utils/firebase/firebase.utils";
-import { ReactComponent as CloverLogo } from "../../assets/clover.svg";
+import { ReactComponent as CloverLogo } from "../../assets/clover4.svg";
 
 import "./navigation.styles.scss";
 
